@@ -1,5 +1,6 @@
-CodeAlpha_Python_Programming_Internship_Project_Tasks
-
+# CodeAlpha_Python_Programming_Internship_Project_Tasks
+In this internship, developed applications, wrote scripts for data analysis, build web applications with frameworks like Django, solving algorithmic challenges.
+Tasks Include:
 # CodeAlpha_Hangman_game_Project.
 A text-based Hangman game. The program selects a random word, and the player guesses one letter at a time to uncover the word.
 # CodeAlpha_Stock_Portfolio_Tracker_Project.
